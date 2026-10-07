@@ -12,3 +12,6 @@ Se presenta la evidencia de las actividades realizadas para la evaluación T2, a
 
 ## Control de cambios
 Registro de modificaciones realizadas en el Working Directory y Staging Area.
+
+## Gestión de ramas
+Se utilizó la rama `feature-ramos` para desarrollar una funcionalidad de manera independiente antes de integrarla a la rama principal.
